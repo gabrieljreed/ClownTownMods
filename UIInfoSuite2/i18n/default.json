@@ -1,4 +1,6 @@
 {
+  // GUI - Game Menu
+  "OptionsTabTooltip": "UI Info Suite 2 Options",
   //GUI - Billboard
   "Billboard": "Billboard",
   "Calendar": "Calendar",
@@ -19,10 +21,11 @@
   "SnowNextDay": "There will be snow tomorrow",
   "IslandRainNextDay": "There will be rain on the island tomorrow",
   "IslandThunderstormNextDay": "There will be a thunderstorm on the island tomorrow",
-  "DaysUntilToolIsUpgraded": "{0} days until {1} is finished being upgraded",
+  "DaysUntilToolIsUpgraded": "{0} day(s) until {1} is finished being upgraded",
   "ToolIsFinishedBeingUpgraded": "{0} is finished!",
   "NpcBirthday": "{0}'s birthday",
   "RobinBuildingStatus": "Robin will finish your new building in {0} day(s)",
+  "RobinHouseUpgradeStatus": "Robin will finish upgrading your house in {0} day(s)",
   // Display icons - Foragables
   "CanFindSalmonberry": "You can find Salmonberries today",
   "CanFindBlackberry": "You can find Blackberries today",

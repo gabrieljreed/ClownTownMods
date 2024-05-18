@@ -6,18 +6,13 @@
     "config.title.main-options": "Opzioni principali",
     "config.enabled.name": "Abilitata",
     "config.enabled.desc": "Scegli se abilitare l'automazione. Se disabilitata, i macchinari non saranno automatizzati e non camparirà l'overlay.",
-    "config.junimo-huts-output-gems.name": "Capanne Junimo producono gemme",
-    "config.junimo-huts-output-gems.desc": "Scegli se estrarre le gemme dalle capanne dei Junimo. Se abilitato, non sarà possibile cambiare i colori dei Junimo mettendo delle gemme nelle loro capanne.",
     "config.automation-interval.name": "Intervallo di automazione",
     "config.automation-interval.desc": "Il numero di tick tra ogni processo di automazione (60 per una volta al secondo, 120 per ogni due secondi, ecc.).",
-    "config.toggle-overlay-key.name": "Imposta il tasto overlay",
+    "config.min-minutes-for-fairy-dust.name": "Minuti min per la Polvere di fata",
+    "config.min-minutes-for-fairy-dust.desc": "Il tempo minimo di elaborazione della macchina in minuti per il quale applicare la polvere di fata. Ad esempio, se si imposta un valore di 30 minuti, la polvere di fata non verrà applicata se la macchina terminerebbe in 20 minuti senza di essa.",
+    "config.toggle-overlay-key.name": "Imposta il tasto per l'overlay",
     "config.toggle-overlay-key.desc": "I tasti che attivano l'overlay dell'automazione.",
-
-    // mod compatibility
-    "config.title.mod-compatibility": "Compatibilità con le mod",
-    "config.better-junimos.name": "Better Junimos",
-    "config.better-junimos.desc": "Abilita la compatibilità con Better Junimos. Se è installato, le capanne Junimo non produrranno fertilizzanti o semi.",
-    "config.warn-for-missing-bridge-mod.name": "Avvertimento per la mancanza di mod.",
+    "config.warn-for-missing-bridge-mod.name": "Avvertimento per la mancanza di mod",
     "config.warn-for-missing-bridge-mod.desc": "Scegli se registrare un avviso all'avvio se si è installata una macchina personalizzata che richiede una patch di compatibilità separata che non è installata.",
 
     // connectors
@@ -26,10 +21,25 @@
     "config.custom-connectors.name": "Connettori personalizzati",
     "config.custom-connectors.desc": "I nomi inglesi esatti degli elementi che collegano tra loro macchinari adiacenti. È possibile elencare più elementi con le virgole.", // note: connector names must be English even when playing in other languages
 
-    // machine overrides
-    "config.title.machine-overrides": "Sovrascrittura macchinari",
-    "config.override.ShippingBin-name": "Cassetta delle Spedizioni",
-    "config.override.MiniShippingBin-name": "Mini-Cassetta per Spedizioni",
-    "config.override.desc": "Scegli se abilitare l'automazione di {{machineName}}.",
-    "config.custom-overrides-note": "Per sovrascritture personalizzate, vedi https://github.com/Pathoschild/StardewMods/tree/develop/Automate#configure se ti serve una mano per modificare config.json direttamente."
+    // Junimo hut options
+    "config.title.junimo-huts": "Comportamento capanno Junimo",
+    "config.junimo-hut-gems.name": "Gemme",
+    "config.junimo-hut-gems.desc": "Cosa dovrebbero fare le Capanne Junimo con le gemme. 'Individua automaticamente' le ignorerà.",
+    "config.junimo-hut-fertilizer.name": "Fertilizzante",
+    "config.junimo-hut-fertilizer.desc": "Cosa dovrebbero fare le Capanne Junimo con i fertilizzanti. 'Individua automaticamente' li ignorerà se è stato installato Better Junimos, altrimenti li sposterà dal capanno alle casse collegate.",
+    "config.junimo-hut-seeds.name": "Semi",
+    "config.junimo-hut-seeds.desc": "Cosa dovrebbero fare le Capanne Junimo con i Semi. 'Individua automaticamente' li ignorerà se è stato installato Better Junimos, altrimenti li sposterà dal capanno alle casse collegate.",
+
+    // Junimo hut dropdown values
+    "config.junimo-huts.auto-detect": "Individua automaticamente",
+    "config.junimo-huts.ignore": "Ignora",
+    "config.junimo-huts.move-into-chests": "Sposta dai capanni Junimo alle casse",
+    "config.junimo-huts.move-into-huts": "Sposta dalle casse ai capanni Junimo",
+
+    // per-machine settings
+    "config.title.machine-settings": "Comportamento di: {{machineName}}",
+    "config.machine-settings-enabled.Name": "Abilitata",
+    "config.machine-settings-enabled.desc": "Scegli se abilitare l'automazione di: {{machineName}}.",
+    "config.machine-settings-priority.name": "Priorità",
+    "config.machine-settings-priority.desc": "L'ordine di priorità con cui le macchine: {{machineName}} dovrebbero essere processate rispetto ad altre macchine. Le macchine hanno una priorità predefinita di 0, con valori più alti processati per primi."
 }
