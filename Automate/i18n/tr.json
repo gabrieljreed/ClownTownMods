@@ -41,5 +41,16 @@
     "config.machine-settings-enabled.Name": "Etkin",
     "config.machine-settings-enabled.desc": "{{machineName}} otomasyonunun etkinleştirilip etkinleştirilmeyeceği.",
     "config.machine-settings-priority.name": "Öncelik",
-    "config.machine-settings-priority.desc": "Diğer makinelerle kıyasla {{machineName}} makinelerinin işlenme öncelik sırası. Makinelerin varsayılan önceliği 0'dır, daha yüksek değerler önce işlenir."
+    "config.machine-settings-priority.desc": "Diğer makinelerle kıyasla {{machineName}} makinelerinin işlenme öncelik sırası. Makinelerin varsayılan önceliği 0'dır, daha yüksek değerler önce işlenir.",
+
+    // machine names
+    "config.machines.bush": "Çalı",
+    "config.machines.fruit-tree": "Ağaç (Meyve Ağacı)",
+    "config.machines.trash-can": "Çöp Kutusu",
+    "config.machines.wild-tree": "Ağaç (Vahşi Ağaç)",
+    "config.machines.feed-hopper": "Yem Hunisi ve Silo",
+
+    // special settings for individual machines
+    "config.machines.wild-tree.collect-moss.name": "Yosunları Topla",
+    "config.machines.wild-tree.collect-moss.desc": "Yosunların toplanıp toplanmayacağı. Örneğin, ağaçlardaki yosunu toplamamak Mantar Kütüğü tarafından üretilecek mantarların kalitesini arttırır."
 }

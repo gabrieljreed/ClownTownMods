@@ -6,13 +6,14 @@
     "HarvestCrops": true,
     "HarvestBushes": true,
     "HarvestForageCrops": true,
-    "ClearDeadCrops": true
+    "ClearDeadCrops": true,
+    "VisitGreenhouse": true
   },
   "JunimoHuts": {
     "MaxJunimos": 3,
     "MaxRadius": 8,
-    "AvailibleAfterCommunityCenterComplete": false,
-    "AvailibleImmediately": false,
+    "AvailableAfterCommunityCenterComplete": true,
+    "AvailableImmediately": false,
     "ReducedCostToConstruct": false,
     "FreeToConstruct": false
   },
@@ -20,10 +21,14 @@
     "CanWorkInRain": true,
     "CanWorkInWinter": true,
     "CanWorkInEvenings": true,
+    "CanWorkInGreenhouse": true,
     "WorkFaster": false,
+    "WorkRidiculouslyFast": false,
     "AvoidHarvestingFlowers": true,
     "AvoidHarvestingGiants": true,
-    "AvoidPlantingCoffee": true
+    "HarvestEverythingOn28th": true,
+    "AvoidPlantingCoffee": true,
+    "AvoidPlantingOutOfSeason": true
   },
   "JunimoPayment": {
     "WorkForWages": false,
@@ -32,7 +37,8 @@
       "Flowers": 0,
       "Fruit": 0,
       "Wine": 0
-    }
+    },
+    "GiveExperience": false
   },
   "FunChanges": {
     "RainyJunimoSpiritFactor": 0.7,
@@ -42,10 +48,11 @@
   },
   "Other": {
     "SpawnJunimoKeybind": "J",
-    "ReceiveMessages": true
+    "ReceiveMessages": true,
+    "HutClickEnabled": true,
+    "HutMenuKeybind": "None"
   },
   "Progression": {
-    "Enabled": true,
-    "UnlockCosts": {}
+    "Enabled": true
   }
 }

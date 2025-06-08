@@ -1,0 +1,13 @@
+{
+   "Name": "Qmi's Alternate Portraits",
+   "Author": "Qmi",
+   "Version": "2.1.0",
+   "Description": "Replaces the normal NPC portraits and character assets with Qmi's custom sprites. Enjoy!",
+   "UniqueID": "Qmi.AltPort",
+   "MinimumApiVersion": "3.9.0", // https://smapi.io/
+   "UpdateKeys": ["Nexus:20339"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // https://www.nexusmods.com/stardewvalley/mods/1915
+      "MinimumVersion": "1.20.1"
+   }
+}

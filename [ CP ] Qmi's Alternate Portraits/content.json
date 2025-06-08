@@ -1,0 +1,1541 @@
+{
+	"Format": "2.0.0",
+
+	"ConfigSchema": {
+
+		"Enable Mod": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+
+		"-----------------------------": {
+            "AllowValues": "-----------------------------",		
+			"Default": "-----------------------------"
+        },
+
+		"Abigail Ribbon": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Maru Glasses": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Harvey Glasses": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Harvey Moustache": {
+            "AllowValues": "true, false",		
+			"Default": "false"
+        },
+		"Sebastian Choker": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Sam Red Shirt": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Shane Beard": {
+            "AllowValues": "true, false",		
+			"Default": "false"
+        },
+		"Wizard Beard": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Clint Beard": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Alternate Krobus": {
+            "AllowValues": "true, false",		
+			"Default": "false"
+        },
+		"Alternate Governor": {
+            "AllowValues": "true, false",		
+			"Default": "false"
+        },
+
+		"------------------------------": {
+            "AllowValues": "------------------------------",		
+			"Default": "------------------------------"
+        },
+
+
+
+        "Abigail": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Alex": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+        "Bear": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+        "Birdie": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+        "Bouncer": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Caroline": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Clint": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Demetrius": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Dwarf": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Elliott": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Emily": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Evelyn": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Fizz": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"George": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Gil": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Governor": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Governor Sprite": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Grandpa": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Gunther": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Gus": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Haley": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Harvey": {
+            "AllowValues": "true, false",			
+			"Default": "true"
+        },
+		"Henchman": {
+            "AllowValues": "true, false",			
+			"Default": "true"
+        },
+		"Jas": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Jodi": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Kent": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Krobus": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Krobus Sprite": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Leah": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Lewis": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Linus": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Marlon": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Marnie": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Maru": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Morris": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"MrQi": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Pam": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"ParrotBoy": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Penny": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Pierre": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Robin": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"SafariGuy": {
+            "AllowValues": "true, false",		
+			"Default": "false"
+        },
+		"Sam": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Sandy": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Sebastian": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Shane": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Vincent": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Willy": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Wizard": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        },
+		"Wizard Sprite": {
+            "AllowValues": "true, false",		
+			"Default": "true"
+        }
+    },
+	
+	
+	
+	"Changes": [
+		
+		//Abigail
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail",
+			"FromFile": "assets/Abigail/Abigail.png",
+			"When": {
+				"Enable Mod": "true",
+				"Abigail": "true",
+				"Abigail Ribbon": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail_Winter",
+			"FromFile": "assets/Abigail/Abigail_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Abigail": "true",
+				"Abigail Ribbon": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail_Beach",
+			"FromFile": "assets/Abigail/Abigail_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Abigail": "true",
+				"Abigail Ribbon": "true, false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail",
+			"FromFile": "assets/Abigail/Abigail_Alt.png",
+			"When": {
+				"Enable Mod": "true",
+				"Abigail": "true",
+				"Abigail Ribbon": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Abigail_Winter",
+			"FromFile": "assets/Abigail/Abigail_Winter_Alt.png",
+			"When": {
+				"Enable Mod": "true",
+				"Abigail": "true",
+				"Abigail Ribbon": "true"
+			}
+		},
+		//Alex
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Alex",
+			"FromFile": "assets/Alex/Alex.png",
+			"When": {
+				"Enable Mod": "true",
+				"Alex": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Alex_Beach",
+			"FromFile": "assets/Alex/Alex_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Alex": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Alex_Winter",
+			"FromFile": "assets/Alex/Alex_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Alex": "true"
+			}
+		},
+		//Bear
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Bear",
+			"FromFile": "assets/Bear.png",
+			"When": {
+				"Enable Mod": "true",
+				"Bear": "true"
+			}
+		},
+		//Birdie
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Birdie",
+			"FromFile": "assets/Birdie.png",
+			"When": {
+				"Enable Mod": "true",
+				"Birdie": "true"
+			}
+		},
+		//Bouncer
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Bouncer",
+			"FromFile": "assets/Bouncer.png",
+			"When": {
+				"Enable Mod": "true",
+				"Bouncer": "true"
+			}
+		},
+		//Caroline
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Caroline",
+			"FromFile": "assets/Caroline/Caroline.png",
+			"When": {
+				"Enable Mod": "true",
+				"Caroline": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Caroline_Beach",
+			"FromFile": "assets/Caroline/Caroline_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Caroline": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Caroline_Winter",
+			"FromFile": "assets/Caroline/Caroline_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Caroline": "true"
+			}
+		},
+		//Clint Beard
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Clint",
+			"FromFile": "assets/Clint/Clint.png",
+			"When": {
+				"Enable Mod": "true",
+				"Clint": "true",
+				"Clint Beard": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Clint_Beach",
+			"FromFile": "assets/Clint/Clint_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Clint": "true",
+				"Clint Beard": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Clint_Winter",
+			"FromFile": "assets/Clint/Clint_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Clint": "true",
+				"Clint Beard": "true"
+			}
+		},
+		//Clint Clean
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Clint",
+			"FromFile": "assets/Clint/Clint_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Clint": "true",
+				"Clint Beard": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Clint_Beach",
+			"FromFile": "assets/Clint/Clint_Beach_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Clint": "true",
+				"Clint Beard": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Clint_Winter",
+			"FromFile": "assets/Clint/Clint_Winter_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Clint": "true",
+				"Clint Beard": "false"
+			}
+		},
+		//Demetrius
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Demetrius",
+			"FromFile": "assets/Demetrius.png",
+			"When": {
+				"Enable Mod": "true",
+				"Demetrius": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Demetrius_Winter",
+			"FromFile": "assets/Demetrius_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Demetrius": "true"
+			}
+		},
+		//Dwarf
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Dwarf",
+			"FromFile": "assets/Dwarf.png",
+			"When": {
+				"Enable Mod": "true",
+				"Dwarf": "true"
+			}
+		},
+		//Elliott
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Elliott",
+			"FromFile": "assets/Elliott/Elliott.png",
+			"When": {
+				"Enable Mod": "true",
+				"Elliott": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Elliott_Winter",
+			"FromFile": "assets/Elliott/Elliott_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Elliott": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Elliott_Beach",
+			"FromFile": "assets/Elliott/Elliott_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Elliott": "true"
+			}
+		},
+		//Emily
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Emily",
+			"FromFile": "assets/Emily/Emily.png",
+			"When": {
+				"Enable Mod": "true",
+				"Emily": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Emily_Winter",
+			"FromFile": "assets/Emily/Emily_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Emily": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Emily_Beach",
+			"FromFile": "assets/Emily/Emily_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Emily": "true"
+			}
+		},
+		//Evelyn
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Evelyn",
+			"FromFile": "assets/Evelyn.png",
+			"When": {
+				"Enable Mod": "true",
+				"Evelyn": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Evelyn_Winter",
+			"FromFile": "assets/Evelyn_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Evelyn": "true"
+			}
+		},
+		//Fizz
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Fizz",
+			"FromFile": "assets/Fizz.png",
+			"When": {
+				"Enable Mod": "true",
+				"Fizz": "true"
+			}
+		},
+		//George
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/George",
+			"FromFile": "assets/George.png",
+			"When": {
+				"Enable Mod": "true",
+				"George": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/George_Winter",
+			"FromFile": "assets/George_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"George": "true"
+			}
+		},
+		//Gil
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Gil",
+			"FromFile": "assets/Gil.png",
+			"When": {
+				"Enable Mod": "true",
+				"Gil": "true"
+			}
+		},
+		//Governor
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Governor",
+			"FromFile": "assets/Governor/Governor.png",
+			"When": {
+				"Enable Mod": "true",
+				"Governor": "true",
+				"Alternate Governor": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Governor",
+			"FromFile": "assets/Governor/Alternate.png",
+			"When": {
+				"Enable Mod": "true",
+				"Governor": "true",
+				"Alternate Governor": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Governor",
+			"FromFile": "assets/Governor/Character.png",
+			"When": {
+				"Enable Mod": "true",
+				"Governor Sprite": "true"
+			}
+		},
+		//Grandpa
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Grandpa",
+			"FromFile": "assets/Grandpa.png",
+			"When": {
+				"Enable Mod": "true",
+				"Grandpa": "true"
+			}
+		},
+		//Gunther
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Gunther",
+			"FromFile": "assets/Gunther.png",
+			"When": {
+				"Enable Mod": "true",
+				"Gunther": "true"
+			}
+		},
+		//Gus
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Gus",
+			"FromFile": "assets/Gus.png",
+			"When": {
+				"Enable Mod": "true",
+				"Gus": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Gus_Winter",
+			"FromFile": "assets/Gus_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Gus": "true"
+			}
+		},
+		//Haley
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Haley",
+			"FromFile": "assets/Haley/Haley.png",
+			"When": {
+				"Enable Mod": "true",
+				"Haley": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Haley_Beach",
+			"FromFile": "assets/Haley/Haley_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Haley": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Haley_Winter",
+			"FromFile": "assets/Haley/Haley_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Haley": "true"
+			}
+		},
+		//Harvey NORMAL
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey",
+			"FromFile": "assets/Harvey/Regular/Normal.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "true",
+				"Harvey Glasses": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Winter",
+			"FromFile": "assets/Harvey/Winter/Harvey_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "true",
+				"Harvey Glasses": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Harvey/Harvey_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "true",
+				"Harvey Glasses": "true"
+			}
+		},
+		//Harvey Shaved
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey",
+			"FromFile": "assets/Harvey/Regular/Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "false",
+				"Harvey Glasses": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Winter",
+			"FromFile": "assets/Harvey/Winter/Harvey_Winter_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "false",
+				"Harvey Glasses": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Harvey/Harvey_Beach_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "false",
+				"Harvey Glasses": "true"
+			}
+		},
+		//Harvey No Glasses
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey",
+			"FromFile": "assets/Harvey/Regular/NoGlasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "true",
+				"Harvey Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Winter",
+			"FromFile": "assets/Harvey/Winter/Harvey_Winter_NoGlasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "true",
+				"Harvey Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Harvey/Harvey_Beach_NoGlasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "true",
+				"Harvey Glasses": "false"
+			}
+		},
+		//Harvey No Glasses + Shaved
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey",
+			"FromFile": "assets/Harvey/Regular/NoGlassesClean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "false",
+				"Harvey Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Winter",
+			"FromFile": "assets/Harvey/Winter/Harvey_Winter_Clean_NoGlasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "false",
+				"Harvey Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Harvey/Harvey_Beach_Clean_NoGlasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Harvey": "true",
+				"Harvey Moustache": "false",
+				"Harvey Glasses": "false"
+			}
+		},
+		//Henchman
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Henchman",
+			"FromFile": "assets/Henchman.png",
+			"When": {
+				"Enable Mod": "true",
+				"Henchman": "true"
+			}
+		},
+		//Jas
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jas",
+			"FromFile": "assets/Jas/Jas.png",
+			"When": {
+				"Enable Mod": "true",
+				"Jas": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jas_Winter",
+			"FromFile": "assets/Jas/Jas_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Jas": "true"
+			}
+		},
+		//Jodi
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jodi",
+			"FromFile": "assets/Jodi/Jodi.png",
+			"When": {
+				"Enable Mod": "true",
+				"Jodi": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jodi_Winter",
+			"FromFile": "assets/Jodi/Jodi_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Jodi": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Jodi_Beach",
+			"FromFile": "assets/Jodi/Jodi_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Jodi": "true"
+			}
+		},
+		//Kent
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Kent",
+			"FromFile": "assets/Kent.png",
+			"When": {
+				"Enable Mod": "true",
+				"Kent": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Kent_Winter",
+			"FromFile": "assets/Kent_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Kent": "true"
+			}
+		},
+		//Krobus
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Krobus",
+			"FromFile": "assets/Krobus/Krobus.png",
+			"When": {
+				"Enable Mod": "true",
+				"Krobus": "true",
+				"Alternate Krobus": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Krobus",
+			"FromFile": "assets/Krobus/Krobus_Alt.png",
+			"When": {
+				"Enable Mod": "true",
+				"Krobus": "true",
+				"Alternate Krobus": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Krobus",
+			"FromFile": "assets/Krobus/Character.png",
+			"When": {
+				"Enable Mod": "true",
+				"Krobus Sprite": "true",
+				"Alternate Krobus": "true, false"
+			}
+		},
+		//Leah
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Leah",
+			"FromFile": "assets/Leah/Leah.png",
+			"When": {
+				"Enable Mod": "true",
+				"Leah": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Leah_Winter",
+			"FromFile": "assets/Leah/Leah_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Leah": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Leah_Beach",
+			"FromFile": "assets/Leah/Leah_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Leah": "true"
+			}
+		},
+		//Lewis
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Lewis",
+			"FromFile": "assets/Lewis.png",
+			"When": {
+				"Enable Mod": "true",
+				"Lewis": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Lewis_Winter",
+			"FromFile": "assets/Lewis_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Lewis": "true"
+			}
+		},
+		//Linus
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Linus",
+			"FromFile": "assets/Linus.png",
+			"When": {
+				"Enable Mod": "true",
+				"Linus": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Linus_Winter",
+			"FromFile": "assets/Linus_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Linus": "true"
+			}
+		},
+		//Marlon
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Marlon",
+			"FromFile": "assets/Marlon.png",
+			"When": {
+				"Enable Mod": "true",
+				"Marlon": "true"
+			}
+		},
+		//Marnie
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Marnie",
+			"FromFile": "assets/Marnie/Marnie.png",
+			"When": {
+				"Enable Mod": "true",
+				"Marnie": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Marnie_Winter",
+			"FromFile": "assets/Marnie/Marnie_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Marnie": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Marnie_Beach",
+			"FromFile": "assets/Marnie/Marnie_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Marnie": "true"
+			}
+		},
+		//Maru
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru",
+			"FromFile": "assets/Maru/Maru.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru_Winter",
+			"FromFile": "assets/Maru/Maru_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru_Hospital",
+			"FromFile": "assets/Maru/Hospital.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru_Beach",
+			"FromFile": "assets/Maru/Maru_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "true, false"
+			}
+		},
+		//Glasses
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru",
+			"FromFile": "assets/Maru/Maru_Glasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru_Winter",
+			"FromFile": "assets/Maru/Maru_Winter_Glasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Maru_Hospital",
+			"FromFile": "assets/Maru/Hospital_Glasses.png",
+			"When": {
+				"Enable Mod": "true",
+				"Maru": "true",
+				"Maru Glasses": "true"
+			}
+		},
+		//Morris
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Morris",
+			"FromFile": "assets/Morris.png",
+			"When": {
+				"Enable Mod": "true",
+				"Morris": "true"
+			}
+		},
+		//Mr Qi
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/MrQi",
+			"FromFile": "assets/MrQi.png",
+			"When": {
+				"Enable Mod": "true",
+				"MrQi": "true"
+			}
+		},
+		//Pam
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pam",
+			"FromFile": "assets/Pam/Pam.png",
+			"When": {
+				"Enable Mod": "true",
+				"Pam": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pam_Winter",
+			"FromFile": "assets/Pam/Pam_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Pam": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pam_Beach",
+			"FromFile": "assets/Pam/Pam_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Pam": "true"
+			}
+		},
+		//ParrotBoy
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/ParrotBoy",
+			"FromFile": "assets/ParrotBoy.png",
+			"When": {
+				"Enable Mod": "true",
+				"ParrotBoy": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/ParrotBoy_Winter",
+			"FromFile": "assets/ParrotBoy_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"ParrotBoy": "true"
+			}
+		},
+		//Penny
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Penny",
+			"FromFile": "assets/Penny/Penny.png",
+			"When": {
+				"Enable Mod": "true",
+				"Penny": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Penny_Winter",
+			"FromFile": "assets/Penny/Penny_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Penny": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Penny_Beach",
+			"FromFile": "assets/Penny/Penny_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Penny": "true"
+			}
+		},
+		//Pierre
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pierre",
+			"FromFile": "assets/Pierre/Pierre.png",
+			"When": {
+				"Enable Mod": "true",
+				"Pierre": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pierre_Winter",
+			"FromFile": "assets/Pierre/Pierre_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Pierre": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Pierre_Beach",
+			"FromFile": "assets/Pierre/Pierre_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Pierre": "true"
+			}
+		},
+		//Robin
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Robin",
+			"FromFile": "assets/Robin/Robin.png",
+			"When": {
+				"Enable Mod": "true",
+				"Robin": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Robin_Winter",
+			"FromFile": "assets/Robin/Robin_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Robin": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Robin_Beach",
+			"FromFile": "assets/Robin/Robin_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Robin": "true"
+			}
+		},
+		//SafariGuy
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/SafariGuy",
+			"FromFile": "assets/SafariGuy.png",
+			"When": {
+				"Enable Mod": "true",
+				"SafariGuy": "true"
+			}
+		},
+		//Sam
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sam",
+			"FromFile": "assets/Sam/Sam.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sam": "true",
+				"Sam Red Shirt": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sam",
+			"FromFile": "assets/Sam/Sam_Red.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sam": "true",
+				"Sam Red Shirt": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sam_Winter",
+			"FromFile": "assets/Sam/Sam_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sam": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sam_Beach",
+			"FromFile": "assets/Sam/Sam_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sam": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sam_JojaMart",
+			"FromFile": "assets/Sam/Sam_JojaMart.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sam": "true"
+			}
+		},
+		//Sandy
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sandy",
+			"FromFile": "assets/Sandy.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sandy": "true"
+			}
+		},
+		//Sebastian
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sebastian",
+			"FromFile": "assets/Sebastian/Sebastian.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sebastian": "true",
+				"Sebastian Choker": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sebastian_Winter",
+			"FromFile": "assets/Sebastian/Sebastian_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sebastian": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sebastian_Beach",
+			"FromFile": "assets/Sebastian/Sebastian_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sebastian": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Sebastian",
+			"FromFile": "assets/Sebastian/Sebastian_No_Choker.png",
+			"When": {
+				"Enable Mod": "true",
+				"Sebastian": "true",
+				"Sebastian Choker": "false"
+			}
+		},
+		//Shane
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane",
+			"FromFile": "assets/Shane/Shane.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane_Winter",
+			"FromFile": "assets/Shane/Shane_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane_Beach",
+			"FromFile": "assets/Shane/Shane_Beach.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane_JojaMart",
+			"FromFile": "assets/Shane/Shane_JojaMart.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "true"
+			}
+		},
+		//Shane Shaved
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane",
+			"FromFile": "assets/Shane/Shane_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane_Winter",
+			"FromFile": "assets/Shane/Shane_Winter_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane_Beach",
+			"FromFile": "assets/Shane/Shane_Beach_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Shane_JojaMart",
+			"FromFile": "assets/Shane/Shane_JojaMart_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Shane": "true",
+				"Shane Beard": "false"
+			}
+		},
+		//Vincent
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Vincent",
+			"FromFile": "assets/Vincent/Vincent.png",
+			"When": {
+				"Enable Mod": "true",
+				"Vincent": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Vincent_Winter",
+			"FromFile": "assets/Vincent/Vincent_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Vincent": "true"
+			}
+		},
+		//Willy
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Willy",
+			"FromFile": "assets/Willy.png",
+			"When": {
+				"Enable Mod": "true",
+				"Willy": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Willy_Winter",
+			"FromFile": "assets/Willy_Winter.png",
+			"When": {
+				"Enable Mod": "true",
+				"Willy": "true"
+			}
+		},
+		//Wizard
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Wizard",
+			"FromFile": "assets/Wizard/Wizard.png",
+			"When": {
+				"Enable Mod": "true",
+				"Wizard": "true",
+				"Wizard Beard": "true"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Wizard",
+			"FromFile": "assets/Wizard/Wizard_Clean.png",
+			"When": {
+				"Enable Mod": "true",
+				"Wizard": "true",
+				"Wizard Beard": "false"
+			}
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Wizard",
+			"FromFile": "assets/Wizard/Character.png",
+			"When": {
+				"Enable Mod": "true",
+				"Wizard Sprite": "true"
+			}
+		}
+	]
+}
